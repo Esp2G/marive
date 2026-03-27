@@ -12,12 +12,6 @@
   Track 46+ global assets in real-time with stunning glassmorphism and butter-smooth animations.
 </p>
 
-<p align="center">
-  <a href="https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/market-live">
-    <img src="https://vercel.com/button" alt="Deploy with Vercel" />
-  </a>
-</p>
-
 ---
 
 ## ✨ What is Market Live?
@@ -84,7 +78,7 @@ Ready to run your own terminal? It takes less than 2 minutes.
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/YOUR_USERNAME/market-live.git
+git clone https://github.com/Esp2G/marive.git
 cd market-live
 npm install
 ```
